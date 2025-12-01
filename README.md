@@ -1,3 +1,5 @@
+![Bitcoin Knots v30](/social/knots-gh-cover.png)
+
 # Knots Web - Static Site
 
 A generated static website for [Bitcoin Knots](https://bitcoinknots.org/), built with Nuxt 4. This repository contains the compiled static files ready for deployment.
